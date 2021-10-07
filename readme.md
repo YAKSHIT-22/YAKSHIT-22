@@ -1,8 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://www.sysprobs.com/wp-content/uploads/2018/10/Programming-laptop-icon.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="It's hard to beat a person who never gives up.mp4" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T</h1>
 <h3 align="center">I'm a Passionate Developer from India.</h3>
-## 🙋‍♂️ About Me
+<a href="#"><p align="center"><img width="50%" height="auto" src="https://www.sysprobs.com/wp-content/uploads/2018/10/Programming-laptop-icon.png" height="175px"/></p></a>
 
+## 🙋‍♂️ About Me
 - 🔭 I’m currently studying **CSE😁**
 - 🌱 I’m currently learning **Hacking✌️**
 - 👯 I’m  looking for learning a **Lot New Things**
