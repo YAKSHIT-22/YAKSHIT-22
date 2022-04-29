@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T🧑</h1>
 <h3 align="center">I'm a Passionate Developer from India🦚</h3>
-<a href="#"><p align="center"><img width="50%" height="auto" src="https://www.sysprobs.com/wp-content/uploads/2018/10/Programming-laptop-icon.png" height="175px"/></p></a>
+<a href="#"><p align="center"><img width="50%" height="auto" style="border-radius:25px;" src="https://www.sysprobs.com/wp-content/uploads/2018/10/Programming-laptop-icon.png" height="175px"/></p></a>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently studying **CSE😁**
