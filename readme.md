@@ -1,23 +1,37 @@
+
 <a href="#"><img width="100%" height="auto" src="It's hard to beat a person who never gives up.gif" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T🧑</h1>
-<h3 align="center">I'm a Passionate Developer from India🦚</h3>
-<a href="#"><p align="center"><img width="50%" height="auto" src="https://www.sysprobs.com/wp-content/uploads/2018/10/Programming-laptop-icon.png" height="175px"/></p></a>
+<h3 align="center" >I'm a Passionate Developer from India🦚</h3>
+<a href="#"><p align="center"><img width="50%" height="auto" src="we.png" /></p></a>
 
-## 🙋‍♂️ About Me
-- 🔭 I’m currently studying **CSE😁**
-- 🌱 I’m currently learning **Ethical Hacking✌️**
-- 👯 I’m  looking for learning a **Lot New Things**
-- 📫 How to reach me **yakshitgarg25@gmail.com**
-- ⚡ Fun fact **I play games all the time and do weird stuff🤣**
-  
-## 🚀 Languages and Tools:
+## ⚡ HELLO EVERYONE ⚡
+```
+Name = "YAKSHIT"
+Profession = {
+  'DevOp':  '❤️',
+  'CyberSec':  '✅',
+  'System':  '🧲'
+}
+Age = "18"
+Country = "IN"
+College = "Chitkara University, Punjab"
+
+About= [
+  "😄I'm Learning New things All Time",
+  "☀️Nature Lover",
+  "🌱 I’m currently learning **Ethical Hacking✌️",
+  "💬 Ask me about anything, I am happy to help",
+  "⚡️ Fun-Fact: I play games all the time and do weird stuff🤣",
+]
+```
+## 🚀 Languages and Tools
 <p align="center"> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -46,14 +60,19 @@
 <a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="YAKSHIT-22" /></a> </p>
+<p align="center"> <a href="https://github.com/YAKSHIT-22">
+    <img width="100%" height="auto"  align="center" alt="YAKSHIT-22" src="https://github-profile-trophy.vercel.app/?username=YAKSHIT-22&theme=radical"/>
+  </a>  </p>
 
-## Connect with me😁✌️:
-<p align="left">
-<a href = "https://www.instagram.com/yakshit.g2203/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YAKSHIT-22">
-</a>
-<a href="https://github.com/YAKSHIT-22?tab=followers"><img src="https://img.shields.io/github/followers/YAKSHIT-22?label=Followers&style=social" alt="GitHub Badge"></a>
+[![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YAKSHIT-22?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/YAKSHIT-22.svg?label=Follower)](https://github.com/YAKSHIT-22?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/YAKSHIT-22.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/YAKSHIT-22?tab=followers)
+
+## 😁✌️ Connect with Me
+<p align="left">
+<a href = "https://www.instagram.com/yakshit.g2203/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="mailto:yakshitgarg25@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></p>
+
