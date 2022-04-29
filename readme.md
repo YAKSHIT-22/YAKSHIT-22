@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T🧑</h1>
 <h3 align="center">I'm a Passionate Developer from India🦚</h3>
-<a href="#"><p align="center"><img width="50%" height="auto" style="border-radius:25px;" src="https://www.sysprobs.com/wp-content/uploads/2018/10/Programming-laptop-icon.png" height="175px"/></p></a>
+<a href="#"><p align="center"><img width="50%" height="auto" src="https://www.sysprobs.com/wp-content/uploads/2018/10/Programming-laptop-icon.png" height="175px"/></p></a>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently studying **CSE😁**
@@ -18,6 +18,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
