@@ -60,9 +60,7 @@ About= [
 <a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
-<p align="center"> <a href="https://github.com/YAKSHIT-22">
-    <img width="100%" height="auto"  align="center" alt="YAKSHIT-22" src="https://github-profile-trophy.vercel.app/?username=YAKSHIT-22&theme=radical"/>
-  </a>  </p>
+
 
 
 
