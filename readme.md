@@ -1,5 +1,4 @@
 
-<a href="#"><img width="100%" height="400px" src="github.gif"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T🧑</h1>
 <h3 align="center" >I'm a Passionate Developer from India🦚</h3>
 <a href="#"><p align="center"><img width="50%" height="auto" src="we1 (1).png" /></p></a>
