@@ -1,8 +1,8 @@
 
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
-<div align="center" >
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Big+Tech+Enthusiast;JavaScript+Lover+❤️;MERN+Stack+Developer)](https://git.io/typing-svg)
-</div>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm YAKSHIT<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=I+A'M+A+PASSIONATE+👦;DEVELOPER+❤️+FROM+INDIA+🗺)](https://git.io/typing-svg)
+
 <a href="#"><p align="center"><img width="50%" height="auto" src="we1 (1).png" /></p></a>
 
 ## ⚡ HELLO EVERYONE ⚡
@@ -58,6 +58,7 @@ About= [
 <br/>
 <br/>
 <a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://skyline.github.com/YAKSHIT-22/2021"><img width="200%" src="githubSkyline.gif"></a>
 <br/>
 <br/>
 
