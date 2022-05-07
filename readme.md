@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T🧑</h1>
-<h3 align="center" >I'm a Passionate Developer from India🦚</h3>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ¥@K$#!T<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
+<div align="center" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Big+Tech+Enthusiast;JavaScript+Lover+❤️;MERN+Stack+Developer)](https://git.io/typing-svg)
+</div>
 <a href="#"><p align="center"><img width="50%" height="auto" src="we1 (1).png" /></p></a>
 
 ## ⚡ HELLO EVERYONE ⚡
