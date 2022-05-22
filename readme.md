@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=I+A'M+A+PASSIONATE+👦;DEVELOPER+❤️+FROM+INDIA+🗺)](https://git.io/typing-svg)
 
-<a href="#"><p align="center"><img width="50%" height="auto" src="we1 (1).png" /></p></a>
+<a href="https://yakshit-22.github.io/My_Portfolio/"><p align="center"><img width="50%" height="auto" src="we1 (1).png" /></p></a>
 
 ## ⚡ HELLO EVERYONE ⚡
 ```
@@ -16,7 +16,7 @@ Profession = {
 Age = "18"
 Country = "IN"
 College = "Chitkara University, Punjab"
-Portfolio = " https://yakshit-22.github.io/My_Portfolio/ "
+Portfolio = "https://yakshit-22.github.io/My_Portfolio/"
 
 About= [
   "😄I'm Learning New things All Time",
