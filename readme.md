@@ -1,5 +1,4 @@
-
-<h1 style="font-style:Roboto;" align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm YAKSHIT<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h1>
+<h1 style="font-style:Roboto;" align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm YAKSHIT<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=I+A'M+A+PASSIONATE+👦;DEVELOPER+❤️+FROM+INDIA+🗺)](https://git.io/typing-svg)
 
@@ -59,7 +58,7 @@ About= [
 <br/>
 <br/>
 <a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<a href="https://skyline.github.com/YAKSHIT-22/2021"><img width="200%" src="githubSkyline.gif"></a>
+<a href="https://skyline.github.com/YAKSHIT-22/2021"><img width="200px" src="githubSkyline.gif"></a>
 <br/>
 <br/>
 
