@@ -1,4 +1,4 @@
-<img src="banner.png" width="auto" height="250px"/>
+<img src="banner.png" width="auto" height="auto"/>
 
 <h1 style="font-style:Roboto;" align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm YAKSHIT<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
