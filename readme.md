@@ -74,6 +74,7 @@ About= [
 
 ## 😁✌️ Connect with Me
 <p align="left">
-<a href = "https://www.instagram.com/yakshit.g2203/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href="mailto:yakshitgarg25@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></p>
+<a href="https://www.instagram.com/yakshit.g2203/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href=""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:yakshitgarg25@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a></p>
 
