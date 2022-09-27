@@ -47,8 +47,14 @@ About= [
     
     
 </p>
+<p></p>
+<p align="center">
+    <a href="https://holopin.io/api/user/board?user=yakshit22)](https://holopin.io/@yakshit22" >
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="100px" height="100px"/>
+</a>
+<p></p>
+</p>
 
-<br/>
 <p align="center">
     <a href="https://github.com/YAKSHIT-22/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="YAKSHIT-22's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHIT-22&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
