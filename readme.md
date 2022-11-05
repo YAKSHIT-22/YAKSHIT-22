@@ -76,8 +76,6 @@ About= [
 <br/>
 <br/>
 <a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<a href="https://skyline.github.com/YAKSHIT-22/2021"><img width="auto" src="githubSkyline.gif" height="auto"></a>
-<br/>
 <br/>
 
 
