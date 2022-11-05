@@ -31,18 +31,18 @@ About= [
 ## 🚀 Languages and Tools
 <p align="center"> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="linux" width="40" height="40"/> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/3585995681551952104-512.png" alt="linux" width="40" height="40"/> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a>
+    <a href="https://www.w3.org/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://firebase.google.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
+    <a href="https://www.tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/> 
+    <a href="https://socket.io" target="_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/3585995681551952104-512.png" alt="socketio" width="40" height="40"/> 
+    <a href="https://dart.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
+    <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
+    <a href="https://docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
 
     
