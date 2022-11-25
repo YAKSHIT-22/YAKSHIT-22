@@ -90,9 +90,9 @@ About= [
 
 
 ## ❤ Views and Followers
-[![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YAKSHIT-22?tab=followers)
-[![GitHub followers](https://img.shields.io/github/followers/YAKSHIT-22.svg?label=Follower)](https://github.com/YAKSHIT-22?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/YAKSHIT-22.svg?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/YAKSHIT-22?tab=followers)
+[![GitHub views](https://komarev.com/ghpvc/?username=YAKSHIT-22&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/YAKSHIT-22?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/YAKSHIT-22.svg?style=for-the-badge&color=orange&label=Follower)](https://github.com/YAKSHIT-22?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/YAKSHIT-22.svg?style=for-the-badge&color=green&affiliations=OWNER%2CCOLLABORATOR)](https://github.com/YAKSHIT-22?tab=stars)
 
 ## 😁✌️ Connect with Me
 <p align="left">
