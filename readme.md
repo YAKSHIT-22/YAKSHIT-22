@@ -4,7 +4,7 @@
 <h1 style="font-style:Roboto;" align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm YAKSHIT<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=I+A'M+A+PASSIONATE+👦;DEVELOPER+❤️+FROM+INDIA+🗺)](https://git.io/typing-svg)
-<a href="https://yakshit-22.github.io/My_Portfolio/"><p align="center"><img width="50%" height="auto" src="we1 (1).png" /></p></a>
+
 <br>
 
 ## ⚡ HELLO EVERYONE ⚡
@@ -49,6 +49,9 @@ About= [
     
 </p>
 <p></p>
+      
+## 📛 Badges
+      
 <p align="center">
    <a href="https://holopin.io/api/user/board?user=yakshit22)](https://holopin.io/@yakshit22" >
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="75px" height="75px"/>
@@ -63,13 +66,16 @@ About= [
 <p></p>
 </p>
 
-<p align="center">
+
+
+## 📊 My Github Stats
+      
+    
+ <p align="center">
     <a href="https://github.com/YAKSHIT-22/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="YAKSHIT-22's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YAKSHIT-22&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
   <br/>
     <a href="https://github.com/YAKSHIT-22/github-readme-stats"><img alt="YAKSHIT-22's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YAKSHIT-22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/YAKSHIT-22/github-readme-stats"><img alt="YAKSHIT-22's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHIT-22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
