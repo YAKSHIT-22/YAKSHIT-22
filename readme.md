@@ -36,7 +36,7 @@ About= [
     <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://firebase.google.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a href="https://www.tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/> 
+    <a href="https://www.tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ultraviolet/512/react.png" alt="react" width="40" height="40"/>
     <a href="https://socket.io" target="_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/3585995681551952104-512.png" alt="socketio" width="40" height="40"/> 
     <a href="https://dart.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
     <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
