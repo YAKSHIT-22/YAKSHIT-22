@@ -96,7 +96,28 @@ About= [
 
 ## 😁✌️ Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/yakshit-garg-34a236241/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/yakshit.g2203/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:yakshitgarg25@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a></p>
+<ul class="flex flex-row justify-center items-center">
 
+<li>
+<a href="https://www.linkedin.com/in/yakshit-garg-34a236241/" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin:  YAKSHIT-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://www.instagram.com/yakshit.g2203/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram:  YAKSHIT-%2300acee.svg?color=F77737&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:yakshitgarg25@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  yakshitgarg25-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
