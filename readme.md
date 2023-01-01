@@ -1,5 +1,5 @@
 
-<h1 style="font-style:Roboto;" align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm YAKSHIT<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm YAKSHIT<img width="40px" height="40px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=ffffff&center=true&vCenter=true&width=1000&height=50&lines=I+A'M+A+PASSIONATE+👦;DEVELOPER+❤️+FROM+INDIA+🗺)](https://git.io/typing-svg)
 
@@ -9,18 +9,18 @@
 ```
 Name = "YAKSHIT"
 Profession = {
-  'DevOp':  '❤️',
+  'FrontEnd Development':  '❤️',
   'CyberSec':  '✅',
-  'System':  '🧲'
+  'Web Design':  '🧲'
 }
-Age = "18"
-Country = "IN"
+Age = "19"
+Country = "India♥"
 College = "Chitkara University, Punjab"
 Portfolio = "https://yakshit-22.github.io/My_Portfolio/"
 
 About= [
-  "😄I'm Learning New things All Time",
-  "☀️Nature Lover",
+  "😄 I'm Learning New things All Time",
+  "☀️ Nature Lover",
   "🌱 I’m currently learning **Ethical Hacking✌️",
   "💬 Ask me about anything, I am happy to help",
   "⚡️ Fun-Fact: I play games all the time and do weird stuff🤣",
@@ -77,10 +77,10 @@ About= [
     <a href="https://github.com/YAKSHIT-22/github-readme-stats"><img alt="YAKSHIT-22's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YAKSHIT-22&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/YAKSHIT-22/github-readme-stats"><img alt="YAKSHIT-22's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHIT-22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
 
 
