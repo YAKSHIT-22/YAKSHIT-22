@@ -16,7 +16,7 @@ Profession = {
 Age = "19"
 Country = "India♥"
 College = "Chitkara University, Punjab"
-Portfolio = "https://yakshit-22.github.io/My_Portfolio/"
+Portfolio = "https://yakshitgarg.me"
 
 About= [
   "😄 I'm Learning New things All Time",
