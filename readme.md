@@ -49,7 +49,7 @@ About= [
 ## 📛 Badges
       
 <p align="center">
-  
+  <!--
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="75px" height="75px"/>
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="75px" height="75px"/>
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="75px" height="75px"/>
@@ -57,7 +57,7 @@ About= [
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="75px" height="75px"/>
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19&w=1920&q=75" width="75px" height="75px"/>
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbGFqeHF4eTUwNDMzMDhqc3k3bXp1NmlwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="75px" height="75px"/>
-
+-->
   <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="70px" height="70px"/>
 <p></p>
 </p>
