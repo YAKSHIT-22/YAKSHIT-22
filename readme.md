@@ -4,7 +4,7 @@
 Name = "YAKSHIT"
 Profession = {
   'FullStack Frontend Heavy Development':  '❤️',
-  'CyberSec':  '✅',
+  'Software Testing':  '✅',
   'Web Design':  '🧲'
 }
 Age = "20"
