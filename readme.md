@@ -7,10 +7,10 @@ Profession = {
   'Software Testing':  '✅',
   'Web Design':  '🧲'
 }
-Age = "20"
+Age = "21"
 Country = "India♥"
 College = "Chitkara University, Punjab"
-Portfolio = "https://yakshit.co"
+Portfolio = "https://yakshit.vercel.app"
 
 About= [
   "😄 I'm Learning New things All Time",
