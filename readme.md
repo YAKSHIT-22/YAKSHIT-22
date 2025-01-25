@@ -1,5 +1,4 @@
 ## ⚡ HELLO EVERYONE  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'M YAKSHIT <img width="20px" height="20px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
-<a href="https://app.daily.dev/yakshit22"><img src="https://api.daily.dev/devcards/v2/Te36VIMCa09uzgLu3vndq.png?type=default&r=34n" width="356" alt="Yakshit's Dev Card"/></a>
 
 ```
 Name = "YAKSHIT"
@@ -76,6 +75,7 @@ About= [
 ## 😁✌️ Connect with Me
 
 <p align="left">
+<a href="https://app.daily.dev/yakshit22"><img src="https://api.daily.dev/devcards/v2/Te36VIMCa09uzgLu3vndq.png?type=default&r=34n" width="356" alt="Yakshit's Dev Card"/></a>
 
 <div style="display:flex;gap:2px;">
 <a href="https://www.linkedin.com/in/yakshit-garg" target="_blank">
