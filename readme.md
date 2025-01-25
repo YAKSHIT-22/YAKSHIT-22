@@ -1,4 +1,5 @@
 ## ⚡ HELLO EVERYONE  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'M YAKSHIT <img width="20px" height="20px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<a href="https://app.daily.dev/yakshit22"><img src="https://api.daily.dev/devcards/v2/Te36VIMCa09uzgLu3vndq.png?type=default&r=34n" width="356" alt="Yakshit's Dev Card"/></a>
 
 ```
 Name = "YAKSHIT"
@@ -64,6 +65,7 @@ About= [
 <br/>
 <!-- <a href="https://github.com/YAKSHIT-22/github-readme-activity-graph"><img alt="YAKSHIT-22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YAKSHIT-22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/>
+
 
 ## ❤ Views and Followers
 
